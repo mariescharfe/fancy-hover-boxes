@@ -29,7 +29,6 @@ html {
   transform: scale(1.1);
 }
 
-
 .hover-box:focus {
   z-index: 10;
 }
